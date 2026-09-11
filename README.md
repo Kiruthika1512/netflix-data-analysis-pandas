@@ -28,6 +28,7 @@ The dataset used in this project is the Netflix Movies and TV Shows dataset from
 Dataset: Netflix Movies and TV Shows
 Source: Kaggle
 Dataset by: Shivam Bansal
+Netflix Movies and TV Shows Dataset on Kaggle
 
 The dataset contains information about Netflix titles including movies, TV shows, genres, countries, release years, ratings, directors, cast, and duration.
 

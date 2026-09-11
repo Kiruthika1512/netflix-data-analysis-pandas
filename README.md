@@ -40,6 +40,27 @@ The dataset contains information about Netflix titles including movies, TV shows
 * Google Colab
 * GitHub
 
+## Technologies and Skills
+
+### Technologies
+
+* Python
+* Pandas
+* Matplotlib
+* Google Colab
+* GitHub
+
+### Data Analysis Skills
+
+* Data Cleaning
+* Missing Value Handling
+* Data Filtering
+* GroupBy and Aggregation
+* String Manipulation
+* Data Transformation
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+
 ## Analysis Performed
 
 The project covers:

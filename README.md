@@ -23,14 +23,11 @@ The dataset contains information about Netflix movies and TV shows, including:
 
 ## Dataset Source
 
-The dataset used in this project is the Netflix Movies and TV Shows dataset from Kaggle.
+The dataset used in this project is the **Netflix Movies and TV Shows dataset** from Kaggle.
 
 [Netflix Movies and TV Shows Dataset - Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
-Source: Kaggle
-Dataset by: Shivam Bansal
 
-The dataset contains information about Netflix titles including movies, TV shows, genres, countries, release years, ratings, directors, cast, and duration.
-
+**Dataset by:** Shivam Bansal
 
 ## Tools and Technologies
 
@@ -40,19 +37,7 @@ The dataset contains information about Netflix titles including movies, TV shows
 * Google Colab
 * GitHub
 
-
-### Data Analysis Skills
-
-* Data Cleaning
-* Missing Value Handling
-* Data Filtering
-* GroupBy and Aggregation
-* String Manipulation
-* Data Transformation
-* Exploratory Data Analysis (EDA)
-* Data Visualization
-
-### Data Analysis Skills
+## Data Analysis Skills
 
 * Data Cleaning
 * Missing Value Handling
@@ -105,8 +90,9 @@ These visualizations were created using **Matplotlib** based on the analysis per
 
 ## Project File
 
-`Netflix_Data_Analysis_Pandas.ipynb` contains the complete analysis and visualizations.
+`Netflix_Data_Analysis_Pandas.ipynb` contains the complete analysis, Python code, and visualizations.
 
 ## Conclusion
 
 This project demonstrates practical data analysis skills using Pandas and Matplotlib by exploring patterns and trends in the Netflix content library.
+and Matplotlib by exploring patterns and trends in the Netflix content library.

@@ -25,7 +25,6 @@ The dataset contains information about Netflix movies and TV shows, including:
 
 The dataset used in this project is the Netflix Movies and TV Shows dataset from Kaggle.
 
-Dataset: Netflix Movies and TV Shows
 [Netflix Movies and TV Shows Dataset - Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 Source: Kaggle
 Dataset by: Shivam Bansal
@@ -41,15 +40,17 @@ The dataset contains information about Netflix titles including movies, TV shows
 * Google Colab
 * GitHub
 
-## Technologies and Skills
 
-### Technologies
+### Data Analysis Skills
 
-* Python
-* Pandas
-* Matplotlib
-* Google Colab
-* GitHub
+* Data Cleaning
+* Missing Value Handling
+* Data Filtering
+* GroupBy and Aggregation
+* String Manipulation
+* Data Transformation
+* Exploratory Data Analysis (EDA)
+* Data Visualization
 
 ### Data Analysis Skills
 
@@ -101,18 +102,6 @@ These visualizations were created using **Matplotlib** based on the analysis per
 * The **United States** has the highest number of titles in the dataset.
 * **TV-MA** is the most common content rating.
 * **2018** has the highest number of titles by release year.
-
-## Skills Demonstrated
-
-* Data Cleaning
-* Data Transformation
-* Filtering
-* GroupBy
-* Aggregation
-* String Manipulation
-* Explode
-* Exploratory Data Analysis
-* Data Visualization
 
 ## Project File
 

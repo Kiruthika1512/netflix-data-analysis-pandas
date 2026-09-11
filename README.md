@@ -46,6 +46,18 @@ The project covers:
 * Recent content analysis
 * Data visualization
 
+## Key Visualizations
+
+The project includes the following visualizations:
+
+* **Movies vs TV Shows** — Comparison of Movies and TV Shows available in the dataset.
+* **Top 10 Netflix Genres** — Identifies the most common genres/categories.
+* **Top 10 Countries** — Shows the countries contributing the highest number of titles.
+* **Movies and TV Shows by Release Year** — Shows the trend of Movies and TV Shows across release years.
+* **Top 10 Release Years** — Identifies the years with the highest number of Netflix titles.
+
+These visualizations were created using **Matplotlib** based on the analysis performed with **Pandas**.
+
 ## Key Findings
 
 * The dataset contains **8,807 Netflix titles**.

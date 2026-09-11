@@ -21,6 +21,17 @@ The dataset contains information about Netflix movies and TV shows, including:
 * Date added
 * Content type
 
+## Dataset Source
+
+The dataset used in this project is the Netflix Movies and TV Shows dataset from Kaggle.
+
+Dataset: Netflix Movies and TV Shows
+Source: Kaggle
+Dataset by: Shivam Bansal
+
+The dataset contains information about Netflix titles including movies, TV shows, genres, countries, release years, ratings, directors, cast, and duration.
+
+
 ## Tools and Technologies
 
 * Python
